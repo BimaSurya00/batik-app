@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434666292313",
+    "project_id": "latihan-erico",
+    "storage_bucket": "latihan-erico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434666292313:android:ee029d06aa0f064db79d48",
+        "android_client_info": {
+          "package_name": "com.example.latihan_erico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwYpcg3MYeS70Z8mUUmPqFlIn-Im-Ewc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
